@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 i am welecom to hyderabad
+=======
+ i am readin  first file
+can change first file second file
+>>>>>>> 632e31747e034620fefe5394ced6044a0582a2f2
